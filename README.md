@@ -10,3 +10,5 @@ too low. It should continue until the
 user correctly guesses the number
 and then display the number of
 attempts it took to win the game.
+
+(This code include GUI)
